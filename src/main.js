@@ -1,6 +1,8 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
+import '@/assets/style/iconfont/iconfont.css'
+
 import DreamUI from './libs/dream-ui'
 
 
